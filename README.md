@@ -4,17 +4,7 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-<div align="center">
-  <a href="mailto:vibind007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/vibin-d-61b26932a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Vibin-007">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+
 
 ---
 
@@ -76,5 +66,11 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vibin-007&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="mailto:vibind007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vibin-d-61b26932a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
 </div>
