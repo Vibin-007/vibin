@@ -32,16 +32,13 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-## 📚 Education
+# Data Science and Machine Learning
 
-**B.Sc AI & DS** (2024 - 2027)  
-🎓 *Rathinam College of Arts and Science*
-
-**HSC** (2022 - 2024)  
-🏫 *Devanga Hr Sec School*
-
-**SSLC** (2021 - 2022)  
-🏫 *Sri Visweswara Vidyalaya Matric Hr Sec School*
+- **Supervised Learning**: Linear Regression, Logistic Regression, KNN, Decision Tree, Random Forest
+- **Unsupervised Learning**: K-Means, DBSCAN
+- **Model Evaluation**: Accuracy, Precision, Recall, R²
+- **Data Preprocessing**: Cleaning, Encoding, Scaling
+- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib
 
 ---
 
