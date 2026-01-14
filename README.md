@@ -4,9 +4,6 @@
 
 I am an **AI & Data Science undergraduate** with a strong foundation in Machine Learning and hands-on experience in Python, data analysis, and web development. I am passionate about building and evaluating ML models and applying data-driven solutions to real-world problems. 🚀
 
----
-
-
 
 ---
 
@@ -67,7 +64,10 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
+# 📬 Contact
+
 <div align="center">
+
   <a href="mailto:vibind007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
