@@ -1,5 +1,7 @@
 # Hello there, I'm Vibin D! 👋
 
+# About Me
+
 I am an **AI & Data Science undergraduate** with a strong foundation in Machine Learning and hands-on experience in Python, data analysis, and web development. I am passionate about building and evaluating ML models and applying data-driven solutions to real-world problems. 🚀
 
 ---
