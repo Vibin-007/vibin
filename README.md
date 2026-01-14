@@ -1,6 +1,6 @@
 # Hello there, I'm Vibin D! 👋
 
-# About Me
+## About Me
 
 I am an **AI & Data Science undergraduate** with a strong foundation in Machine Learning and hands-on experience in Python, data analysis, and web development. I am passionate about building and evaluating ML models and applying data-driven solutions to real-world problems. 🚀
 
@@ -32,7 +32,7 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-# Data Science and Machine Learning
+## Data Science and Machine Learning
 
 - **Supervised Learning**: Linear Regression, Logistic Regression, KNN, Decision Tree, Random Forest
 - **Unsupervised Learning**: K-Means, DBSCAN
