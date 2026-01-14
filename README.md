@@ -55,12 +55,15 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-## 🏆 Certifications & Workshops
+## � Certifications
+
+- **Git and GitHub** - Google
+- **Programming with JavaScript** - Meta
+
+## 🤝 Workshops
 
 - **Mastering Generative AI** - IISc Bangalore
 - **Introduction to Machine Learning** - IIT Palakkad
-- **Git and GitHub** - Google
-- **Programming with JavaScript** - Meta
 
 ---
 
