@@ -1,4 +1,4 @@
-# Hello there, I'm Vibin D! 👋
+# Hello there, I'm Vibin D!
 
 ## About Me
 
@@ -7,7 +7,7 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +42,7 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### College Event Website
 *Developed a responsive website for managing multiple college event categories and registrations.*
@@ -52,19 +52,19 @@ I am an **AI & Data Science undergraduate** with a strong foundation in Machine 
 
 ---
 
-## � Certifications
+## Certifications
 
 - **Git and GitHub** - Google
 - **Programming with JavaScript** - Meta
 
-## 🤝 Workshops
+## Workshops
 
 - **Mastering Generative AI** - IISc Bangalore
 - **Introduction to Machine Learning** - IIT Palakkad
 
 ---
 
-# 📬 Contact
+# Contact
 <div>
 
   <a href="mailto:vibind007@gmail.com">
